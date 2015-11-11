@@ -10,6 +10,14 @@ these functions operate on this, and assumes that it is a function.
 
 `add` is now curried.
 
+## Test
+
+Run `npm install` to install dependencies (babel 6 is assumed). Then...
+
+```
+npm test
+```
+
 ## Caution
 
 `decorators` are too new to use in production yet. So use this library with some caution.
